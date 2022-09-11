@@ -1,4 +1,11 @@
+/**
+ * 
+ * @author sebas
+ *
+ * @param <T>
+ */
 
+// The <T extends Measurable> means that T always will extend Measurable
 public class DataSetGen<T extends Measurable> {
 
 	//Instance Variable 
